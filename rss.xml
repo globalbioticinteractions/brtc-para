@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+	xmlns:ipt="http://ipt.gbif.org/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>Texas A&amp;M University Biodiversity Research and Teaching Collections - selected from Vertnet RSS</title>
+    <link>http://ipt.vertnet.org:8080/ipt</link>
+    <atom:link href="http://ipt.vertnet.org:8080/ipt/rss.do" rel="self" type="application/rss+xml" />
+    <description>Resource metadata of IPT - Hosted by VertNet</description>
+    <language>en-us</language>
+      <!-- RFC-822 date-time / Wed, 02 Oct 2010 13:00:00 GMT -->
+      <pubDate>Mon, 14 Mar 2011 18:52:13 +0000</pubDate>
+      <lastBuildDate>Thu, 03 Feb 2022 13:07:12 +0000</lastBuildDate>
+      <!-- UUID of the IPT making RSS feed available -->
+      <ipt:identifier>a957a663-2f17-415f-b1c8-5cf6398df8ed</ipt:identifier>
+    <generator>GBIF IPT 2.5.5-ra872e56</generator>
+      <webMaster>dbloom@vertnet.org (David Bloom)</webMaster>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>15</ttl>
+      <geo:Point>
+        <geo:lat>38.958437</geo:lat>
+        <geo:long>-95.243644</geo:long>
+      </geo:Point>
+      <item>
+        <title>Biodiversity Research and Teaching Collections - TCWC Vertebrates - Version 9.4</title>
+        <link>http://ipt.vertnet.org:8080/ipt/resource?r=tcwc_verts</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Fixed skins in alcohol problem. SO was interpreted as skin in alcohol last time when it should have been skin only. Fixed that plus new data for Birds, Herps. and Mammals.</description>
+        <author>larussell@vertnet.org (Laura Russell)</author>
+        <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=tcwc_verts</ipt:eml>
+        <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=tcwc_verts</ipt:dwca>
+        <pubDate>Thu, 18 Mar 2021 21:36:42 +0000</pubDate>
+        <guid isPermaLink="false">b6015b60-6f96-43a9-88e5-2f41854e8f07/v9.4</guid>
+      </item>
+      <item>
+        <title>Biodiversity Research and Teaching Collections - TCWC Marine Invertebrates - Version 5.1</title>
+        <link>http://ipt.vertnet.org:8080/ipt/resource?r=tcwc_inverts</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[The Collection of Marine Invertebrates consists of over 47,000 dry and fluid-preserved marine invertebrates primarily from the Gulf of Mexico and the Caribbean Sea. This collection was donated in 1995 by the Department of Oceanography at Texas A&amp;M University. The majority of the specimens were collected by Research Vessels Alaminos and Gyre during the 1960’s and 1970’s. At that time, there had been relatively few biological studies conducted in the Gulf of Mexico. The studies that had been completed prior to that time were from ships unable to perform numerous deep water trawls and dredges, and no studies documented the western half of the Gulf. The new ships were able to perform such trawls and dredges and surveyed a larger portion of the Gulf than the earlier studies. Funding for much of the original collection was provided in part by Sea Grant. The collection remains the most comprehensive collection of deep sea invertebrates from the Gulf of Mexico. It is an active collection and used by systematists, undergraduates, and graduates as a resource for their studies. Dr. Mary K. Wicksten, from the Texas A&amp;M University Biology Department, generously donates her time as curator. Although our collection is called the “Marine” Invertebrate Collection, we recently acquired a landmark collection of freshwater crayfishes from Sterling Johnson, a retiree from Texas A&amp;M University and author of Texas Crawdads. These include vouchers for his book “Texas Crawdads” and constitute a valuable resource for conservation of rare and endemic freshwater fauna.]</description>
+        <author>jmccaffrey@flmnh.ufl.edu (Joanna McCaffrey)</author>
+        <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=tcwc_inverts</ipt:eml>
+        <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=tcwc_inverts</ipt:dwca>
+        <pubDate>Fri, 23 Dec 2016 02:32:59 +0000</pubDate>
+        <guid isPermaLink="false">16b0aa56-90aa-436c-bfe8-b5af83f84575/v5.1</guid>
+      </item>
+  </channel>
+</rss>
